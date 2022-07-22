@@ -22,7 +22,7 @@ layout: home
 ### News
 
 - **July 06, 2022:**\
-  &emsp; ✅ The workshop was accept at [NeurIPS 2022](https://nips.cc/) for an in-person workshop!
+  &emsp; ✅ The workshop was accepted at [NeurIPS 2022](https://nips.cc/) for an in-person workshop!
 - **June 2, 2022:** \
   &emsp; 🖥️ The workshop website is live!
 
@@ -62,9 +62,9 @@ Among the topics addressed by the workshop are:
 
 ### Important Dates
 
-- **Submission Deadline::**\
+- **Submission Deadline:**\
   &emsp; September 22, 2022, 07:00am UTC
-- **Accept/Reject Notification Date** \
+- **Accept/Reject Notification Date:** \
   &emsp; October 14, 2022, 07:00am UTC
 - **Workshop Date:**\
   &emsp; December 2, 2022
