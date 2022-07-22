@@ -9,7 +9,9 @@ layout: home
 
 ## Has it Trained Yet?
 
-### A Workshop for Algorithmic Efficiency in Practical Neural Network Training
+#### A Workshop for Algorithmic Efficiency in Practical Neural Network Training
+
+##### Friday, December 2, 2022, New Orleans at [NeurIPS 2022](https://nips.cc)
 
 &nbsp;
 
@@ -21,7 +23,7 @@ layout: home
 
 - **July 06, 2022:**\
   &emsp; ✅ The workshop was accept at [NeurIPS 2022](https://nips.cc/) for an in-person workshop!
-- **June 02, 2022:** \
+- **June 2, 2022:** \
   &emsp; 🖥️ The workshop website is live!
 
 &nbsp;
@@ -55,5 +57,16 @@ Among the topics addressed by the workshop are:
 - What are painful lessons learned while training deep learning models?
 - What are the most needed algorithmic improvements for neural network training?
 - How can we ensure that research on training methods for deep learning has practical relevance?
+
+&nbsp;
+
+### Important Dates
+
+- **Submission Deadline::**\
+  &emsp; September 22, 2022, 07:00am UTC
+- **Accept/Reject Notification Date** \
+  &emsp; October 14, 2022, 07:00am UTC
+- **Workshop Date:**\
+  &emsp; December 2, 2022
 
 &nbsp;
