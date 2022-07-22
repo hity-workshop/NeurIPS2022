@@ -17,6 +17,13 @@ layout: home
 
 &nbsp;
 
+### News
+
+- **July 06, 2022:**  ✅ The workshop was accept at [NeurIPS 2022](https://nips.cc/) for an in-person workshop!
+- **June 02, 2022:**  🖥️ The workshop website is live!
+
+&nbsp;
+
 ### Workshop Description
 
 Training contemporary neural networks is a lengthy and often costly process, both in human designer time and compute resources.
