@@ -21,6 +21,8 @@ layout: home
 
 ### News
 
+- **August 24, 2022:**\
+  &emsp; 📢 Published the [Call for Papers](https://hity-workshop.github.io/NeurIPS2022/callforpapers/).
 - **July 06, 2022:**\
   &emsp; ✅ The workshop was accepted at [NeurIPS 2022](https://nips.cc/) for an in-person workshop!
 - **June 2, 2022:** \
