@@ -11,7 +11,7 @@ layout: home
 
 #### A Workshop for Algorithmic Efficiency in Practical Neural Network Training
 
-##### Friday, December 2, 2022, New Orleans at [NeurIPS 2022](https://nips.cc)
+##### Friday, December 2, 2022, New Orleans at [NeurIPS 2022](https://nips.cc), **<a href="mailto:hityworkshop@gmail.com">hityworkshop@gmail.com</a>**
 
 &nbsp;
 
