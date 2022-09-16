@@ -24,7 +24,7 @@ Papers have to be submitted via OpenReview:
 
 The review process is double-blind.  
 
-Submissions must be anonymous, follow the NeurIPS 2022 style guide ([LaTex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles), [Overleaf](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx)), and should be **no more than 4 pages** excluding references, acknowledgments, and supplementary materials. Reviewers are not required to read the supplementary materials.
+Submissions must be anonymous, follow the NeurIPS 2022 style guide ([LaTex style files](https://neurips.cc/Conferences/2022/PaperInformation/StyleFiles), [Overleaf](https://www.overleaf.com/latex/templates/neurips-2022/kxymzbjpwsqx)), and should be **no more than 4 pages** excluding references, acknowledgments, and supplementary materials. Reviewers are not required to read the supplementary materials. Adding the NeurIPS checklist is recommended but not mandatory.
 
 Accepted submissions will be presented in a poster session. Additionally, they will be made publically available as non-archival reports, allowing for subsequent publication in an archival conference or journal.
 
