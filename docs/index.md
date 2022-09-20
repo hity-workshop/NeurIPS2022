@@ -21,6 +21,8 @@ layout: home
 
 ### News
 
+- **September 20, 2022:**\
+  &emsp; 🚨 The submission deadline has been extended to September 30, 2022, 07:00am UTC.
 - **August 24, 2022:**\
   &emsp; 📢 Published the [Call for Papers](https://hity-workshop.github.io/NeurIPS2022/callforpapers/).
 - **July 06, 2022:**\
@@ -65,9 +67,9 @@ Among the topics addressed by the workshop are:
 ### Important Dates
 
 - **Submission Deadline:**\
-  &emsp; September 22, 2022, 07:00am UTC
+  &emsp; September 30, 2022, 07:00am UTC **(updated!)**
 - **Accept/Reject Notification Date:** \
-  &emsp; October 14, 2022, 07:00am UTC
+  &emsp; October 20, 2022, 07:00am UTC **(updated!)**
 - **Workshop Date:**\
   &emsp; December 2, 2022
 
