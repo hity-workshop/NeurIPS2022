@@ -3,7 +3,7 @@
 sequence_id: 0
 
 # Time of the event
-time: 09:00 - 09:15
+time: 08:30 - 08:40
 
 # Title of the event
 title: Opening remarks

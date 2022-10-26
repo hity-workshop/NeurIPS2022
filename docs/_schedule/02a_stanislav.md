@@ -1,9 +1,9 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 8
+sequence_id: 2
 
 # Time of the event
-time: 14:15 - 14:45
+time: 09:20 - 09:50
 
 # Title of the event
 title: Invited Talk
