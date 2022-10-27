@@ -3,11 +3,11 @@
 sequence_id: 6
 
 # Time of the event
-time: 12:00 - 12:45
+time: 11:35 - 12:00
 
 # Title of the event
-title: Poster Session
-subtitle: and open discussion
+title: Interactive Audience Session
+subtitle: Results of instant poll
 
 # Image
 img: ../NeurIPSLogo.png

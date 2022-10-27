@@ -3,19 +3,12 @@
 sequence_id: 11
 
 # Time of the event
-time: 15:45 - 16:15
+time: 15:45 - 15:55
 
 # Title of the event
-title: Contributed Talk
-subtitle: TBD
-
-# Speaker Info
-# speaker: 
-# webpage: 
-# affil: 
-# affil_link: 
+title: Q & A
 
 # Image
-# img: ../speakers/.png
-# img_link: 
+img: ../speakers/PriyaGoyal.png
+img_link: https://prigoyal.github.io/
 ---

@@ -3,7 +3,7 @@
 sequence_id: 1
 
 # Time of the event
-time: 09:15 - 09:45
+time: 08:40 - 09:10
 
 # Title of the event
 title: Invited Talk

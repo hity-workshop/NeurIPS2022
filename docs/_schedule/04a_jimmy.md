@@ -1,6 +1,6 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 3
+sequence_id: 4
 
 # Time of the event
 time: 10:15 - 10:45
