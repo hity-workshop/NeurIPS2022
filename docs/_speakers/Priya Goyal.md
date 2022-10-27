@@ -6,9 +6,9 @@ name: Priya Goyal
 webpage: https://prigoyal.github.io/
 
 # Primary affiliation of the speaker
-affil: Meta AI
+affil: Google
 # Link to the speaker's primary affiliation
-affil_link: https://ai.facebook.com/
+affil_link: https://research.google/teams/brain/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: PriyaGoyal.png

@@ -12,8 +12,8 @@ subtitle: by Priya Goyal
 # Speaker Info
 speaker: Priya Goyal
 webpage: https://prigoyal.github.io/
-affil: Meta AI
-affil_link: https://ai.facebook.com/
+affil: Google
+affil_link: https://research.google/teams/brain/
 
 # Image
 img: ../speakers/PriyaGoyal.png
