@@ -6,9 +6,9 @@ name: Stanislav Fort
 webpage: https://stanislavfort.github.io/
 
 # Primary affiliation of the speaker
-affil: Stanford University
+affil: Anthropoic
 # Link to the speaker's primary affiliation
-affil_link: https://ganguli-gang.stanford.edu/people.html
+affil_link: https://www.anthropic.com/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
 img: StanislavFort.jpg

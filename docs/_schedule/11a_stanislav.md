@@ -1,9 +1,9 @@
 ---
 # Determines which item appears first on the schedule (lowest number (0) appears first)
-sequence_id: 2
+sequence_id: 11
 
 # Time of the event
-time: 09:20 - 09:50
+time: 15:15 - 15:45
 
 # Title of the event
 title: Invited Talk
@@ -12,8 +12,8 @@ subtitle: by Stanislav Fort
 # Speaker Info
 speaker: Stanislav Fort
 webpage: https://stanislavfort.github.io/
-affil: Stanford University
-affil_link: https://ganguli-gang.stanford.edu/people.html
+affil: Anthropic
+affil_link: https://www.anthropic.com/
 
 # Image
 img: ../speakers/StanislavFort.jpg
