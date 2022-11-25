@@ -19,8 +19,20 @@ layout: home
 
 &nbsp;
 
+### Workshop Poll
+
+We want to understand how the community trains neural networks. So we created this quick poll: [**forms.gle/oxs9nUHzEkJPcZxH7**](https://forms.gle/oxs9nUHzEkJPcZxH7).
+Share your training protocol, secrets, and frustrations and let us know how **you** train your neural networks.
+The results of this poll will be discussed at the workshop.
+
+[![HITY Workshop Poll](assets/img/WorkshopPoll.png)](https://forms.gle/oxs9nUHzEkJPcZxH7)
+
+&nbsp;
+
 ### News
 
+- **November 25, 2022:**\
+  &emsp; 📊 [**Our poll**](https://forms.gle/oxs9nUHzEkJPcZxH7) is now open! Let us know how **you** train your neural networks.
 - **September 20, 2022:**\
   &emsp; 🚨 The submission deadline has been extended to September 30, 2022, 07:00am UTC.
 - **August 24, 2022:**\
