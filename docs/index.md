@@ -13,6 +13,8 @@ layout: home
 
 ##### Friday, December 2, 2022, New Orleans at [NeurIPS 2022](https://nips.cc), **<a href="mailto:hityworkshop@gmail.com">hityworkshop@gmail.com</a>**
 
+##### **<a href="https://neurips.cc/virtual/2022/workshop/50010">NeurIPS Workshop Website</a>**
+
 &nbsp;
 
 > We all think we know how to train neural nets, but we seem to have different ideas. Let's discuss which methods truly speed up training!
@@ -31,6 +33,10 @@ The results of this poll will be discussed at the workshop.
 
 ### News
 
+- **December 06, 2022:**\
+  &emsp; 📝 A [**protocol of our workshop**](https://medium.com/from-the-diaries-of-john-henry/has-it-trained-yet-1e2f880b7a59) is available thanks to [Nicholas Teague](https://medium.com/@nicholasteague).
+- **December 05, 2022:**\
+  &emsp; 📹 The [**video recordings**](https://neurips.cc/virtual/2022/workshop/50010) of our workshop are now available at the [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/50010) for all registered members.
 - **November 25, 2022:**\
   &emsp; 📊 [**Our poll**](https://forms.gle/oxs9nUHzEkJPcZxH7) is now open! Let us know how **you** train your neural networks.
 - **September 20, 2022:**\
