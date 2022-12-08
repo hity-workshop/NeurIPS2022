@@ -21,18 +21,10 @@ layout: home
 
 &nbsp;
 
-### Workshop Poll
-
-We want to understand how the community trains neural networks. So we created this quick poll: [**forms.gle/oxs9nUHzEkJPcZxH7**](https://forms.gle/oxs9nUHzEkJPcZxH7).
-Share your training protocol, secrets, and frustrations and let us know how **you** train your neural networks.
-The results of this poll will be discussed at the workshop.
-
-[![HITY Workshop Poll](assets/img/WorkshopPoll.png)](https://forms.gle/oxs9nUHzEkJPcZxH7)
-
-&nbsp;
-
 ### News
 
+- **December 08, 2022:**\
+  &emsp; 📤 The [**results of the poll**](https://github.com/fsschneider/HITYWorkshopPoll) are now publically available.
 - **December 06, 2022:**\
   &emsp; 📝 A [**protocol of our workshop**](https://medium.com/from-the-diaries-of-john-henry/has-it-trained-yet-1e2f880b7a59) is available thanks to [Nicholas Teague](https://medium.com/@nicholasteague).
 - **December 05, 2022:**\
@@ -92,3 +84,9 @@ Among the topics addressed by the workshop are:
   &emsp; December 2, 2022
 
 &nbsp;
+
+### Workshop Poll
+
+For the workshop we conducted a survey to gather insights on the current training practices within the community. The poll was distributed through the workshop website, Twitter, email, and at the in-person NeurIPS event.
+
+The survey's results can be found in the PDF in [**this repository**](https://github.com/fsschneider/HITYWorkshopPoll).
