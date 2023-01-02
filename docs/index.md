@@ -26,7 +26,7 @@ layout: home
 - **December 08, 2022:**\
   &emsp; 📤 The [**results of the poll**](https://github.com/fsschneider/HITYWorkshopPoll) are now publically available.
 - **December 06, 2022:**\
-  &emsp; 📝 A [**protocol of our workshop**](https://medium.com/from-the-diaries-of-john-henry/has-it-trained-yet-1e2f880b7a59) is available thanks to [Nicholas Teague](https://medium.com/@nicholasteague).
+  &emsp; 📝 A [**protocol of our workshop**](assets/pdf/HITY_Protocol.pdf) is available thanks to [Nicholas Teague](https://medium.com/@nicholasteague).
 - **December 05, 2022:**\
   &emsp; 📹 The [**video recordings**](https://neurips.cc/virtual/2022/workshop/50010) of our workshop are now available at the [NeurIPS workshop website](https://neurips.cc/virtual/2022/workshop/50010) for all registered members.
 - **November 25, 2022:**\
